@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "elevator",
+  "group": "dye_elevator",
+  "ingredients": [
+    {
+      "tag": "obelevator:elevators"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+  ],
+  "result": {
+    "id": "obelevator:light_blue_elevator"
+  }
+}

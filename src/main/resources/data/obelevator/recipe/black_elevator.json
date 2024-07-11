@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "elevator",
+  "group": "elevator",
+  "pattern": [
+    "WWW",
+    "EPE",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:black_wool"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "id": "obelevator:black_elevator"
+  }
+}

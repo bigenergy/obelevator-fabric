@@ -1,0 +1,20 @@
+{
+  "values": [
+    "obelevator:black_elevator",
+    "obelevator:blue_elevator",
+    "obelevator:brown_elevator",
+    "obelevator:cyan_elevator",
+    "obelevator:gray_elevator",
+    "obelevator:green_elevator",
+    "obelevator:light_blue_elevator",
+    "obelevator:light_gray_elevator",
+    "obelevator:lime_elevator",
+    "obelevator:magenta_elevator",
+    "obelevator:orange_elevator",
+    "obelevator:pink_elevator",
+    "obelevator:purple_elevator",
+    "obelevator:red_elevator",
+    "obelevator:white_elevator",
+    "obelevator:yellow_elevator"
+  ]
+}

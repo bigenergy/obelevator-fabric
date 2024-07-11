@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#obelevator:torches",
+    "#obelevator:tripwire_components",
+    "#minecraft:pressure_plates",
+    "#minecraft:rails",
+    "#minecraft:banners",
+    "#minecraft:signs",
+    "minecraft:redstone_wire"
+  ]
+}

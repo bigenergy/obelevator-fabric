@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "obelevator:block/gray_elevator"
+    }
+  }
+}

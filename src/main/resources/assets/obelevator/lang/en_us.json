@@ -1,0 +1,37 @@
+{
+  "block.obelevator.white_elevator": "White Elevator",
+  "block.obelevator.black_elevator": "Black Elevator",
+  "block.obelevator.blue_elevator": "Blue Elevator",
+  "block.obelevator.brown_elevator": "Brown Elevator",
+  "block.obelevator.cyan_elevator": "Cyan Elevator",
+  "block.obelevator.gray_elevator": "Gray Elevator",
+  "block.obelevator.green_elevator": "Green Elevator",
+  "block.obelevator.light_blue_elevator": "Light Blue Elevator",
+  "block.obelevator.lime_elevator": "Lime Elevator",
+  "block.obelevator.magenta_elevator": "Magenta Elevator",
+  "block.obelevator.orange_elevator": "Orange Elevator",
+  "block.obelevator.pink_elevator": "Pink Elevator",
+  "block.obelevator.purple_elevator": "Purple Elevator",
+  "block.obelevator.red_elevator": "Red Elevator",
+  "block.obelevator.light_gray_elevator": "Light Gray Elevator",
+  "block.obelevator.yellow_elevator": "Yellow Elevator",
+
+  "msg.obelevator.block.elevator.direction_set": "Set elevator direction to %s",
+  "msg.obelevator.block.elevator.north": "north",
+  "msg.obelevator.block.elevator.south": "south",
+  "msg.obelevator.block.elevator.west": "west",
+  "msg.obelevator.block.elevator.east": "east",
+
+  "msg.obelevator.block.elevator.no_space_to_tp": "There is no space above next elevator to teleport you",
+  "msg.obelevator.block.elevator.elevator_not_found_up": "There isn't any elevator above you in range of %d blocks",
+  "msg.obelevator.block.elevator.elevator_not_found_down": "There isn't any elevator under you in range of %d blocks",
+
+  "itemGroup.obelevator.elevators": "OpenBlocks Elevators",
+
+  "tag.block.obelevator.carpets": "Carpets",
+  "tag.block.obelevator.elevators": "Elevators",
+  "tag.item.obelevator.carpets": "Carpets",
+  "tag.item.obelevator.elevators": "Elevators",
+
+  "subtitles.obelevator.block.elevator.use": "Elevator use"
+}
